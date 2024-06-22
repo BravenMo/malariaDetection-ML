@@ -1,5 +1,5 @@
 # MalariaDetection-ML
-This repository contains a comprehensive machine-learning project aimed at detecting malaria from images of White Blood cells.
+This repository contains a machine-learning project aimed at detecting malaria from images of White Blood cells.
 
 ## Description
 This repository contains a comprehensive machine-learning project aimed at detecting malaria from white blood cell images. Utilizing advanced techniques in image processing and deep learning, the project encompasses the following key components:
