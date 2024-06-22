@@ -12,4 +12,3 @@ This repository contains a comprehensive machine-learning project aimed at detec
 ![image](https://github.com/pranav-palliyath/MalariaDetection-ML/assets/42809604/1d2e2862-349c-4abd-b729-e0572f7b639b)
 
 
-ion.
